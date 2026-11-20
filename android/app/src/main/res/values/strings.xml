@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">toDusVPN</string>
+    <string name="app_title">toDusVPN</string>
+    <string name="app_subtitle">VPN sobre mensajería toDus</string>
+
+    <string name="connect">Conectar</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="state_stopped">Listo para conectar</string>
+    <string name="state_connecting">Conectando…</string>
+    <string name="state_running">Conectado y navegando</string>
+    <string name="state_error">Sin conexión</string>
+
+    <string name="status_up">Subida</string>
+    <string name="status_down">Bajada</string>
+    <string name="status_sessions">Conexiones activas</string>
+    <string name="status_udp_out">Paquetes enviados</string>
+    <string name="status_udp_in">Paquetes recibidos</string>
+    <string name="status_store">Peticiones al servidor</string>
+    <string name="status_store_fail">Reintentos</string>
+    <string name="status_uptime">Tiempo conectado</string>
+
+    <string name="card_log">Registro de conexión</string>
+    <string name="permission_notification">Activa las notificaciones para avisarte cuando esté conectado</string>
+</resources>

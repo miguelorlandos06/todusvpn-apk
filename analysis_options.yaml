@@ -1,0 +1,9 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Interfaz de una VPN: coherencia visual y ausencia de ruido por encima de todo.
+    prefer_const_constructors: true
+    prefer_const_declarations: true
+    unnecessary_lambdas: true
+    avoid_redundant_argument_values: false

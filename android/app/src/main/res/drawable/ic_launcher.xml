@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Escudo -->
+    <path
+        android:fillColor="#00695C"
+        android:pathData="M54,20 L82,30 C82,58 72,76 54,88 C36,76 26,58 26,30 Z" />
+    <path
+        android:fillColor="#00897B"
+        android:pathData="M54,26 L76,34 C76,56 68,71 54,81 C40,71 32,56 32,34 Z" />
+    <!-- Rayo (túnel) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,38 L46,56 L53,56 L49,70 L64,50 L56,50 Z" />
+</vector>
