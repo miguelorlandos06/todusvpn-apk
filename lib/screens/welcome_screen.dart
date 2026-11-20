@@ -46,7 +46,7 @@ class WelcomeScreen extends StatelessWidget {
               ),
               const SizedBox(height: 18),
               _FeatureRow(
-                icon: Icons.bolt_outline,
+                icon: Icons.bolt_outlined,
                 title: 'Sin relay, sin S3',
                 subtitle: 'Reemplazo del relay de objetos por mensajes directos.',
               ),
